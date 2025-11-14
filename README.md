@@ -20,4 +20,7 @@ A professional task management and time tracking application built with Streamli
 pip install streamlit plotly pandas numpy
 
 # Run the app
-streamlit run taskflow_app.py
+streamlit run app.py
+
+# Run the terminal app
+python terminaltodo.py
