@@ -1,6 +1,6 @@
-# TaskFlow Professional ✨
+# TaskFlow TodoLists ✨
 
-A professional task management and time tracking application built with Streamlit. Combines intuitive task organization with powerful analytics to optimize your productivity.
+A professional task management and time tracking application built with Streamlit and terminal. Combines intuitive task organization with powerful analytics to optimize your productivity.
 
 ## 🚀 Key Features
 
